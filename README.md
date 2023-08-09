@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code used in the MSC dissertation "Deep-STOC: Deep Learning for Offshore Earthquake Prediction". The research focuses on predicting earthquakes in the Aegean Sea using remote sensing data from Copernicus' ocean colour changes. It presents a deep learning model, Deep-STOC, that uses a convolutional long short-term memory (ConvLSTM) architecture to process the spatiotemporal aspects of the data.
+This repository contains the code used in the MSC dissertation "Forecasting Offshore Earthquake Risks Using Deep Learning: An Analysis of Water Colour Anomalies in Spatiotemporal Satellite Data". The research focuses on predicting earthquakes in the Aegean Sea using remote sensing data from Copernicus' ocean colour changes. It presents a deep learning model, Deep-STOC, that uses a convolutional long short-term memory (ConvLSTM) architecture to process the spatiotemporal aspects of the data.
 
 ## Directory Structure
 
